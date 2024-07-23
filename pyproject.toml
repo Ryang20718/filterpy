@@ -1,7 +1,5 @@
 [project]
 name = "whl-filterpy"
-
-[project]
 version = "1.4.5"
 
 [build-system]
